@@ -1,4 +1,4 @@
-package map;
+package trabalhandoComJavaCollections.map;
 
 import java.util.*;
 

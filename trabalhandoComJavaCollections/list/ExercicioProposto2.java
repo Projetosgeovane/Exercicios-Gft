@@ -1,4 +1,4 @@
-package exerpro2;
+package trabalhandoComJavaCollections.list;
 
 import java.util.ArrayList;
 import java.util.Iterator;

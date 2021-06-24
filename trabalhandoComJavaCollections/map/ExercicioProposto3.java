@@ -1,10 +1,10 @@
-package map;
+package trabalhandoComJavaCollections.map;
 
-import java.awt.*;
 import java.util.*;
 
 public class ExercicioProposto3 {
     public static void main (String[] args){
+        System.out.println("--\tOrdem aleatória\t--");
         Map<Integer, Contato> agenda = new HashMap<>(){{
             put(1, new Contato("Simba", 5555));
             put(4, new Contato("Geovane", 1111));

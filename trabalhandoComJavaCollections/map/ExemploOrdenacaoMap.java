@@ -1,6 +1,5 @@
-package map;
+package trabalhandoComJavaCollections.map;
 
-import java.sql.SQLOutput;
 import java.util.*;
 
 public class ExemploOrdenacaoMap {
