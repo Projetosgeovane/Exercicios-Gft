@@ -41,6 +41,6 @@ public class ExerciciosStreamAPI {
         System.out.println("\nRemova os valores ímpares.");
         collectList.removeIf(integer -> integer % 2 != 0);
         System.out.println(collectList);
-        
+
     }
 }
